@@ -1,0 +1,9 @@
+# environments and caches
+.venv*/
+__pycache__/
+
+# dataset material - must never be committed (no-reshare terms)
+local/data/
+*.zip
+*.mp3
+*.tar.gz

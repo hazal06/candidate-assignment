@@ -1,0 +1,5 @@
+jiwer
+num2words
+transformers
+numpy
+pandas
