@@ -4,7 +4,7 @@ suspiciously wide bootstrap CI for tiny - my hypothesis is a few
 hallucination-loop clips (insertions >> reference length) dominate it.
 """
 import json, sys
-from scoring.score import normalize
+from score import normalize
 import jiwer
 
 rows = []

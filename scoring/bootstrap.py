@@ -12,7 +12,7 @@ Runs on CPU in seconds from the raw JSONLs - part of my repro package.
 import json, re, sys
 import numpy as np
 import jiwer
-from scoring.score import normalize   # the exact same normalization as my WER table
+from score import normalize   # the exact same normalization as my WER table
 
 RNG = np.random.default_rng(42)
 N_BOOT = 1000

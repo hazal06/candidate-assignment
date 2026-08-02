@@ -8,7 +8,7 @@ with and without them. Nothing is silently dropped from the main table.
 import json, sys
 import numpy as np
 import jiwer
-from scoring.score import normalize
+from score import normalize
 
 RNG = np.random.default_rng(42)
 
