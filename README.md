@@ -1,4 +1,4 @@
-# German ASR fine-tuning: Nixi AI take-home (Task A)
+# German ASR fine-tuning
 
 Fine-tuning whisper-tiny and whisper-small on German Common Voice and measuring WER before and after, with the same held-out set, same decoding, and same normalization for every measurement. Write-up in `Write-up.pdf`, additional information in `DECISIONS.md` if needed.
 
